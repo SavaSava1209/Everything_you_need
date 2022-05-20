@@ -1,0 +1,6 @@
+.container {
+    border: 1px solid red;  
+    background-color: pink;
+    height: 800px;
+    overflow-y: auto;
+}
