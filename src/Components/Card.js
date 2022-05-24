@@ -2,7 +2,6 @@ import React from 'react';
 import '../css/card.css'
 
 const Card = ({id, email, username, name}) => {
-
       return(
         <div className='flipCard'>
             <div className='flipCardInner'>

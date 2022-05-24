@@ -1,9 +1,9 @@
 import Card from './Card'
-import '../css/cardList.css'
+
 
 const CardList = ({users}) => {
     return (
-        <div className= 'container'>
+        <div>
             {users.map((user,i) => {
 
                 return (
